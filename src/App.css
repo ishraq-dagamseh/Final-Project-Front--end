@@ -36,3 +36,74 @@
     transform: rotate(360deg);
   }
 }
+
+
+.hover-btn {
+      background-color:  #27ae60;/* Default color */
+    }
+.hover-btn:hover {
+    background-color: rgb(34, 34, 66); /* Change to your desired hover color */
+}
+
+.hover-text {
+      color: rgb(34, 34, 66); /* Default color */
+    }
+.hover-text:hover {
+    color: #27ae60; /* Change to your desired hover color */
+}
+
+
+
+/* Styles for the green, circular button */
+.video-play-button {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: none;
+  background-color: #28a745; /* A bright green color */
+  box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.7);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  animation: pulse-green 2s infinite;
+}
+
+/* Style for the play icon inside the button */
+.video-play-button svg {
+  color: white;
+  font-size: 2.5rem;
+  margin-left: 6px; /* Adjusts icon position */
+}
+
+/* The keyframe animation for the pulsing effect */
+@keyframes pulse-green {
+  0% {
+    box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 20px rgba(40, 167, 69, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(40, 167, 69, 0);
+  }
+}
+.hover-btn2 {
+      background-color: white;/* Default color */
+    }
+    .hover-btn2:hover {
+      background-color:  rgba(40, 167, 69, 0.7); /* Change to your desired hover color */
+    }
+    .hover-text {
+      color: rgb(34, 34, 66); /* Default color */
+    }
+.hover-text:hover {
+    color: #27ae60; /* Change to your desired hover color */
+}
+.hover-text3 {
+      color: white; /* Default color */
+    }
+    .hover-text3:hover {
+      color: #27ae60; /* Change to your desired hover color */
+    }
