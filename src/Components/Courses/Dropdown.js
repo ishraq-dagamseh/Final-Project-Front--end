@@ -222,7 +222,7 @@ function DropdownBtn() {
                 />
                 {/* Price badge overlay */}
                 <div className='position-absolute top-0 start-0 m-3 p-2 bg-success text-white rounded-circle' 
-                                        style={{backgroundColor:'#27ae60', fontWeight: 600, fontSize: 13,
+                                        style={{backgroundColor:'#27ae60', fontWeight: 600, fontSize: 12,
                                             borderRadius: "30%",
                                            width: "40px",
                                           height: "40px",

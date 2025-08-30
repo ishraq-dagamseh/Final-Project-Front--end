@@ -225,7 +225,7 @@ Instructor</a>
                                             </Card.Img>
                                             <Card.Body>
                                                 <Card.Text>
-                                                    <div><h3><a href="https://wpdemothemes.com/edusion/profile/edusion?view=instructor">Masum Billah</a></h3></div>
+                                                    <div><h3><a style={{ textDecoration: 'none', color: "#27ae60" }} href="https://wpdemothemes.com/edusion/profile/edusion?view=instructor">Masum Billah</a></h3></div>
                                                     <span className="post">Developer</span>
                                                     <div >
                                                         <div>
@@ -245,7 +245,7 @@ Instructor</a>
                                             </Card.Img>
                                             <Card.Body>
                                                 <Card.Text>
-                                                    <div><h3><a href="https://wpdemothemes.com/edusion/profile/kenneth?view=instructor">Kenneth Renteria</a></h3></div>
+                                                    <div><h3><a style={{ textDecoration: 'none', color: "#27ae60" }} href="https://wpdemothemes.com/edusion/profile/kenneth?view=instructor">Kenneth Renteria</a></h3></div>
                                                     <span className="post">Marketer</span>
                                                     <div >
                                                         <div>
@@ -265,7 +265,7 @@ Instructor</a>
                                             </Card.Img>
                                             <Card.Body>
                                                 <Card.Text>
-                                                    <div><h3><a href="https://wpdemothemes.com/edusion/profile/richard?view=instructor">Richard Hood</a></h3></div>
+                                                    <div><h3><a style={{ textDecoration: 'none', color: "#27ae60" }} href="https://wpdemothemes.com/edusion/profile/richard?view=instructor">Richard Hood</a></h3></div>
                                                     <span className="post">Marketer</span>
                                                     <div >
                                                         <div>
