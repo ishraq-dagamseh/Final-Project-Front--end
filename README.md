@@ -71,4 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # Final-Project-Front--end
->>>>>>> 966523362904ca74ce568b41a440995c5f8dcce1
+## About the project
+In this project, I simualte LLMs website as I can and it was long and full of new concepts learned.
+It was a complementary and review project for a lote of front-end concepts. This website consist from 4 pages: Home, About us, Cources and Contact page. The next image shows one of the main pages, that called : Home page.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/70ab3d3c-46f6-4097-b06e-67ca0fd6ebcc" />
+
+This page consists from many section, like: 2 Navbars, main text section, search and show to some cources, achievement, blogs, and many others.
+
